@@ -1,0 +1,11 @@
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\controllers\PerfilController.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\controllers\ProdutoController.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\repository\ProductoRepository.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\services\ProductoService.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\entity\Producto.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\services\PerfilService.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\InventariosApiApplication.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\validators\PerfilValidator.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\entity\Perfil.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\repository\PerfilRepository.java
+C:\Proyectos_SB\system\inventarios-api_backend\src\main\java\com\mintic\inventariosapi\validators\ProductoValidator.java
